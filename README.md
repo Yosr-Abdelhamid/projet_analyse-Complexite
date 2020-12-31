@@ -1,1 +1,1 @@
-# projet_tri
+# projet_algo
